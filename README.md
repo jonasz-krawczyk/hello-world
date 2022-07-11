@@ -1,4 +1,3 @@
 # hello-world
-training repository 2
-Hi there!
-i love coding! yeah!
+Hi there.<br>
+here, where entire story begins.<br>
